@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on ... A Fantasy Football Web App and A Cryptocurrency Dashboard
+- 🔭 I’m currently working on ... A Fantasy Football Web App (BNTA Project) and A Cryptocurrency Dashboard (Personal)
 - 🌱 I’m currently learning ... React.JS and Springboot 
 - 👯 I’m looking to collaborate on ... impactful open source projects
 - 📫 How to reach me: ...on twitter @olivrrrrcodes
