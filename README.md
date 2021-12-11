@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on ... A Full Stack Fantasy Football Web App (BNTA Project) and A Cryptocurrency Dashboard (Personal)
-- 🌱 I’m currently learning ... React.JS and Springboot 
+- 🌱 I’m currently learning ... React.JS and Spring Boot 
 - 👯 I’m looking to collaborate on ... impactful open source projects
 - 📫 How to reach me: ...on twitter @olivrrrrcodes or https://olivrrrrr.github.io/portfolio/
 - 😄 Pronouns: ... he/him
