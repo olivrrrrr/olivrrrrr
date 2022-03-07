@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--
+**olivrrrrr/olivrrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 - 🔭 I’m currently working on ... A Full Stack Fantasy Football Web App (BNTA Project) and A Cryptocurrency Dashboard (Personal)
 - 🌱 I’m currently learning ... React.JS and Spring Boot 
 - 👯 I’m looking to collaborate on ... impactful open source projects
@@ -7,8 +10,6 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... I am a chemist 🧪 
 
-<!--
-**olivrrrrr/olivrrrrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
